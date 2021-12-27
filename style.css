@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(to right, red , blue);
+   }
+.container{
+    margin-left: 20vw;
+}
+#one{height:5vh;
+width: 5vw;
+font-size: 20px;
+background-color:black;
+color:chartreuse;
+}
+#two{height:5vh;
+    width: 5vw;
+    font-size: 20px;
+    background-color:black;
+color:chartreuse;}
+    #three{height:5vh;
+        width: 5vw;
+        font-size: 20px;
+        background-color:black;
+        color:chartreuse;}
+        #four{height:5vh;
+            width: 5vw;
+            font-size: 20px;
+            background-color:black;
+            color:chartreuse;}
+            #five{height:5vh;
+                width: 5vw;
+                font-size: 20px;
+                background-color:black;
+                color:chartreuse;}
+                #six{height:5vh;
+                    width: 5vw;
+                    font-size: 20px;
+                    background-color:black;
+                    color:chartreuse;}
+                    #zero{height:5vh;
+                        width: 5vw;
+                        font-size: 20px;
+                        background-color:black;
+                        color:chartreuse;}
+    
+                    #seven{height:5vh;
+                        width: 5vw;
+                        font-size: 20px;
+                        background-color:black;
+                        color:chartreuse;}
+                        #eight{height:5vh;
+                            width: 5vw;
+                            font-size: 20px;
+                            background-color:black;
+                            color:chartreuse;}
+                            #nine{height:5vh;
+                                width: 5vw;
+                                font-size: 20px;
+                                background-color:black;
+                            color:chartreuse;}
+                                #plus{height:5vh;
+                                    width: 5vw;
+                                    font-size: 20px;
+                                    background-color:black;
+                                    color:chartreuse;}
+                                    #minus{height:5vh;
+                                        width: 5vw;
+                                        font-size: 20px;
+                                        background-color:black;
+                                        color:chartreuse;}
+                                        #multiply{height:5vh;
+                                            width: 5vw;
+                                            font-size: 20px;
+                                            background-color:black;
+                                            color:chartreuse;}
+                                            #equalto{height:5vh;
+                                                width: 5vw;
+                                                font-size: 20px;
+                                                background-color:black;
+                                                color:chartreuse;}
+                                                #divide{height:5vh;
+                                                    width: 5vw;
+                                                    font-size: 20px;
+                                                    background-color:black;
+                                                    color:chartreuse;}
+                                                #txt{
+                                                    height: 5vh;
+                                                    width: 15.5vw;
+                                                    margin-left: 7vw;
+                                                }
+                                                #clear{
+                                                    height:7vh;
+                                                    width: 15.6vw;
+                            
+                                                    font-size: 20px;
+                                                    background-color:black;
+                                                    color:chartreuse;
+                                                }
+                                                .first{
+                                                    margin-left: 7vw;
+                                                }
+                                                h1{
+                                                    text-transform: uppercase;
+                                                    color:springgreen
+                                                }
